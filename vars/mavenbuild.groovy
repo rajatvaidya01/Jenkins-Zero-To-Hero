@@ -1,2 +1,2 @@
 def call() {
-  sh ' maven clean build'
+  sh ' maven clean install'
